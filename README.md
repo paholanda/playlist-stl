@@ -13,7 +13,7 @@ g++ -std=c++11 -Wall -Wextra src/*.cpp -Iinclude -o sistema
 Onde uso a STL:
 1. std::map<int, Musica> (em Biblioteca.hpp): Utilizado para guardar e indexar o catálogo de músicas de maneira eficiente através da chave única que é o ID da música.
 
-2. std::set<std::string> (em Biblioteca.hpp): Armazena os géneros musicais únicos sem permitir duplicatas.
+2. std::set <std::string> (em Biblioteca.hpp): Armazena os géneros musicais únicos sem permitir duplicatas.
 
 3. std::list<Musica> (em Playlist.hpp): Utilizado para gerenciar a sequência de faixas de uma playlist, permitindo inserções sequenciais.
 
