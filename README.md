@@ -10,5 +10,5 @@ Para compilar o projeto em C++11, execute no terminal na raiz do repositório:
 g++ -std=c++11 -Wall -Wextra src/*.cpp -Iinclude -o sistema
 
 ```
-Como usei a IA
-A IA foi utilizada para auxiliar na estruturação e modularização do código em arquivos .hpp e .cpp, garantir o tratamento correto dos erros de leitura do buffer do cin e assegurar que as regras de C++11 fossem seguidas sem vazamento de memória.
+
+A Inteligência Artificial foi utilizada para auxiliar na estruturação e modularização do código em arquivos .hpp e .cpp, garantir o tratamento correto dos erros de leitura do buffer do cin e assegurar que as regras de C++11 fossem seguidas sem vazamento de memória.
